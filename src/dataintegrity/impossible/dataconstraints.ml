@@ -1,7 +1,7 @@
 (* file: dataconstraints.ml
    author: Bob Muller
 
-   CSCI 3366 Programming Languages
+   CSCI 1103 Computer Science 1 Honors
 
    This file contains OCaml code showing the benefits of defining data
    structures in such a way that consistency constraints between data values
